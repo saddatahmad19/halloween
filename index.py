@@ -2,14 +2,14 @@
 
 # Import the key modules and variables
 import openai
-import secrets
+import ?
 
 # Set the openai api key to the api key variable
-openai.api_key = secrets.API_KEY
+openai.api_key = ?
 
 
 # Select the model that we will use for the completion 
-model = secrets.MODEL
+model = ?
 
 # Main function to be run
 def main():
