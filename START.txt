@@ -1,0 +1,11 @@
+To start the application, cd into the halloween directory
+
+Then make sure to enter the virtual enviornment.
+command:
+. venv/Scripts/activate
+
+Go to index.py and try to create your own chatbot!
+
+To run the file, run the following command
+command: 
+python index.py
